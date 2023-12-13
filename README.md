@@ -29,4 +29,4 @@
 ***
 *When I see the light at that time*  
 
-[taskmgrTZT]:https://taskmgrtzt.xyz/Snipaste_2023-12-08_29.png
+[taskmgrTZT]:IMG_0521_小尺寸压缩.JPG
