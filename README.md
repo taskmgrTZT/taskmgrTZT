@@ -5,7 +5,6 @@
 ### 以下是一些联系方式📞
 
 * 微博：[taskmgrTZT](https://weibo.com/u/7386881267)
-* 网站：[taskmgrtzt.xyz](https://taskmgrtzt.xyz) （维护中）
 * 邮箱：<taskmgrtzt@tasktzt.onmicrosoft.com> （推荐）
 * 哔哩哔哩：[taskmgrTZT](https://space.bilibili.com/387397912)
 * Twitter / X：[taskmgrTZT(@TaskmgrT)](https://twitter.com/TaskmgrT)
