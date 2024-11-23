@@ -2,6 +2,8 @@
 
 ## Hi there,It's taskmgrTZT, Welcome come to my Markdown introducing page！😆
 
+## [中文版本](README.md)
+
 ### Here are some social links📞
 
 * Weibo：[taskmgrTZT](https://weibo.com/u/7386881267)
