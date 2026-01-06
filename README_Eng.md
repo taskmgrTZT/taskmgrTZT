@@ -1,15 +1,16 @@
-# ![taskmgrTZT] taskmgrTZT `(UTC +8)`
+# ![personalImg] Fushan方糖 `(UTC +8)`
 
-## Hi there,It's taskmgrTZT, Welcome come to my Markdown introducing page！😆
+## Hi there, I am Fushan方糖 (taskmgrTZT), Welcome to my Markdown introduction page！😆
 
-## [中文版本](README.md)
+### This page might be outdated. Please check Chinese version. [中文版本](README.md)
+
+***
 
 ### Here are some social links📞
 
-* Weibo：[taskmgrTZT](https://weibo.com/u/7386881267)
-* E-mail：<taskmgrtzt@tasktzt.onmicrosoft.com> （Recommend）
-* Bilibili：[taskmgrTZT](https://space.bilibili.com/387397912)
-* Twitter / X：[taskmgrTZT(@TaskmgrT)](https://twitter.com/TaskmgrT)
+* Weibo：[Fushan方糖](https://weibo.com/u/7386881267)
+* Bilibili：[Fushan方糖](https://space.bilibili.com/387397912)
+* Twitter / X：[Fushan方糖 (@TaskmgrT)](https://twitter.com/TaskmgrT)
 
 ***
 
@@ -20,14 +21,13 @@
 
 ***
 
-### Rewarding info🏅
+### Achievements (what?)🏅
 
-* 时代周刊 2006 年度人物
-* 感动中国 2008 年度人物特别奖
-* 联合国 2019 地球卫士奖
-* 联合国儿童基金会 益童承诺证书获得者
+* Person of the Year, 2006
+* Touching China Special Award, 2008
+* UNICEF "Support for children" certificate
 
 ***
 *When I see the light at that time*  
 
-[taskmgrTZT]:IMG_0521_小尺寸压缩.JPG
+[personalImg]:S2026-01-07_061209_126.jpg
